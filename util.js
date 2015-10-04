@@ -1,2 +1,2 @@
 'use strict'
-module.exports = require('./out/lib/util.js')
+module.exports = require('./out/lib/util')
