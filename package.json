@@ -6,25 +6,25 @@
   },
   "name": "quiver-component",
   "desription": "Meta package for core component system.",
-  "version": "3.0.3",
+  "version": "3.0.4",
   "homepage": "https://github.com/quiverjs/quiver-component",
   "repository": {
     "url": "git@github.com:quiverjs/quiver-component.git"
   },
   "dependencies": {
     "quiver-component-base": "^1.1.0",
-    "quiver-component-basic": "^1.1.0",
+    "quiver-component-basic": "^1.1.1",
     "quiver-component-extra": "^1.0.1",
     "quiver-graph": "^1.1.6",
-    "quiver-http-head": "^1.0.2",
-    "quiver-router-component": "^1.0.3",
+    "quiver-http-head": "^1.0.5",
+    "quiver-router-component": "^1.0.4",
     "quiver-stream-util": "^1.4.6",
-    "quiver-util": "^1.2.1"
+    "quiver-util": "^1.2.5"
   },
   "devDependencies": {
     "babel-cli": "^6.10.1",
-    "quiver-babel": "^1.0.1",
-    "tape": "^4.5.1"
+    "quiver-babel": "^1.0.2",
+    "tape": "^4.6.0"
   },
   "bugs": {
     "url": "https://github.com/quiverjs/quiver-component/issues",
