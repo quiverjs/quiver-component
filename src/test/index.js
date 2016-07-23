@@ -5,6 +5,6 @@ import '../lib/util'
 
 import 'quiver-graph/out/test'
 import 'quiver-component-base/out/test'
-import 'quiver-component-basic/out/test'
+import 'quiver-component-basic/test'
 import 'quiver-component-extra/out/test'
 import 'quiver-router-component/out/test'
