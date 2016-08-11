@@ -21,5 +21,5 @@ export {
 
 export {
   staticRoute, dynamicRoute, paramRoute, regexRoute,
-  streamRouter, httpRouter, methodRouter
+  streamRouter, httpRouter, methodRouter, methodRoute
 } from 'quiver-router-component/constructor'
