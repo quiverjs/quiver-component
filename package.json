@@ -6,7 +6,7 @@
   },
   "name": "quiver-component",
   "desription": "Meta package for core component system.",
-  "version": "3.1.0",
+  "version": "3.1.1",
   "homepage": "https://github.com/quiverjs/quiver-component",
   "repository": {
     "url": "git@github.com:quiverjs/quiver-component.git"

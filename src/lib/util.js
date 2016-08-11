@@ -1,9 +1,9 @@
 export {
   assertComponent, assertHandlerComponent,
   assertMiddlewareComponent,
-  createConfig, assertConfig,
+  createConfig, Config, assertConfig,
   componentConstructor,
-  createHandleable, assertHandleable,
+  createHandleable, Handleable, assertHandleable,
   allSubComponents, innerComponents,
   getHandlerMap, loadHandleable,
   handleableLoader, bindLoader,
@@ -11,7 +11,7 @@ export {
 } from 'quiver-component-base/util'
 
 export {
-  createArgs, assertArgs,
+  createArgs, Args, assertArgs,
   assertStreamHandlerComponent,
   assertHttpHandlerComponent,
   loadStreamHandler, loadHttpHandler,
